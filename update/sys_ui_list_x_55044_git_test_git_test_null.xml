@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_55044_git_test_git_test" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_55044_git_test_git_test" element="NULL" name="x_55044_git_test_git_test" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e2e7da8ddb3032008c78d740cf961969</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-06 02:27:26</sys_created_on>
+            <sys_id>2ae7da8ddb3032008c78d740cf961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-06 02:27:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_55044_git_test_git_test" element="NULL" name="x_55044_git_test_git_test" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e2e7da8ddb3032008c78d740cf961969</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-06 02:27:26</sys_created_on>
+            <sys_id>aae7da8ddb3032008c78d740cf961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-06 02:27:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_by</element>
+            <list_id display_value="x_55044_git_test_git_test" element="NULL" name="x_55044_git_test_git_test" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e2e7da8ddb3032008c78d740cf961969</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-06 02:27:26</sys_created_on>
+            <sys_id>2ee7da8ddb3032008c78d740cf961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-06 02:27:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_55044_git_test_git_test</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-06 02:27:26</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e2e7da8ddb3032008c78d740cf961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_55044_git_test_git_test</sys_name>
+            <sys_package display_value="GIT Test" source="x_55044_git_test">6694c605db3032008c78d740cf9619ca</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="GIT Test">6694c605db3032008c78d740cf9619ca</sys_scope>
+            <sys_update_name>sys_ui_list_x_55044_git_test_git_test_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-06 02:27:26</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

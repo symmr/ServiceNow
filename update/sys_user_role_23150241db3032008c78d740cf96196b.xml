@@ -13,7 +13,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-02-06 01:05:18</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>23150241db3032008c78d740cf96196b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_55044_git_test.git_test_user</sys_name>

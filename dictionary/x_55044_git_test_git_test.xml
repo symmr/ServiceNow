@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="GIT Test" max_length="40" name="x_55044_git_test_git_test" type="collection"/>
+</database>
